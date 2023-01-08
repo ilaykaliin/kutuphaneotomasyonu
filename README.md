@@ -1,0 +1,2 @@
+# kutuphaneotomasyonu
+kutuphane takip otomasyonu
